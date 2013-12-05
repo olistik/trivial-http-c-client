@@ -1,6 +1,7 @@
 # Trivial HTTP C Client
 
-This program performs a simple HTTP (1.0) GET for the specified ip address, port and path.
+This is a trivial C implementation of an HTTP 1.0 client.
+This program performs an HTTP (1.0) GET for the specified ip address, port and path.
 The result is printed to standard output.
 
 ## Compilation
